@@ -1,2 +1,2 @@
 # DeepTraffic-TCN
- Use TCN to classify malicious traffic in network traffic
+ Use stacking to classify imgs
